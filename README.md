@@ -1,2 +1,0 @@
-# Flipkart-model
-Ecom
